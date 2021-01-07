@@ -159,7 +159,6 @@
 			<key>IONameMatch</key>
 			<array>
 				<string>pci8086,9d03</string>
-				<string>pci8086,3822</string>
 			</array>
 			<key>IOProbeScore</key>
 			<integer>2000</integer>
